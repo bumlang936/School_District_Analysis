@@ -54,7 +54,7 @@ It won't have much of an affect on Thomas' performance because the performance i
 
 ### Summary
 
-- Some of the major changes that can be seen in the School District Analysis after the ninth graders from Thomas High's reading and math scores were replaced with NaNs are: 
+- Some of the key notes that can be seen in the School District Analysis after the ninth graders from Thomas High's reading and math scores were replaced with NaNs are: 
     - For the district summary; the overall passing percent, along with the average math score, percent passing math and percent passing reading dropped, but not by more than 1%.
     - For the school_summary; the overall passing percent dropped by roughly 0.3%
     - For the math and reading scores by grades, only change will be for the ninth grade scores for Thomas High.
