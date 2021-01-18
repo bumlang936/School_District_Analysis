@@ -24,13 +24,17 @@ It won't have much of an affect on Thomas' performance because the performance i
     
     - Math and reading scores by grade:
     
-        -Math score averages:
+        Math score averages: 
+        
         ![math score averages](https://user-images.githubusercontent.com/75760493/104870535-642cbd80-590e-11eb-9387-40cfba916e3c.PNG)
+        
         Doesn't affect any of the math score averages for any class in any of the other schools. Only difference is Thomas High has NaN for the math score for 9th grade.
     
     
-        -Reading score averages:
+        Reading score averages:
+        
         ![reading score averages](https://user-images.githubusercontent.com/75760493/104870566-7575ca00-590e-11eb-9ccd-168d04a5d427.PNG)
+        
         Doesn't affect any of the reading score averages for any class in any of the other schools. Only difference is Thomas High has NaN for the reading score for 9th grade.
     
     - Scores by school spending:
